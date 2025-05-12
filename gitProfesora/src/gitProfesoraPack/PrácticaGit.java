@@ -7,6 +7,8 @@ public class PrácticaGit {
 		System.out.println("Hola mundo git");
 		
 		String git="GitHub";
+		
+		String profe="programación";
 
 	}
 
